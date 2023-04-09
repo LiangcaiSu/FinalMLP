@@ -1,0 +1,1 @@
+Please find the dataset details at https://github.com/openbenchmark/BARS/tree/main/datasets/Criteo#criteo_x1
